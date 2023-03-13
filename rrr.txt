@@ -4,3 +4,5 @@ Git is free software.
 aaaa
 Creating a new branch is quick.
 bbbb
+Creating a new branch is quick AND simple.
+cccc
